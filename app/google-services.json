@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "688844388688",
+    "firebase_url": "https://selfchat-594de.firebaseio.com",
+    "project_id": "selfchat-594de",
+    "storage_bucket": "selfchat-594de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688844388688:android:669bfb72338d2584",
+        "android_client_info": {
+          "package_name": "com.boaz.dragonski.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688844388688-7d9n0al894alutafpd3juqcvmnv99801.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA-K15k90_XkhaYN5093QTNC1DQHwStWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688844388688-7d9n0al894alutafpd3juqcvmnv99801.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
